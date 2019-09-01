@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff1c9fe3-edb1-4c2b-ad64-c42d4b56fd64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LL_Drives/dolfinParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/LL_Drives/dolfinParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LL_Drives/graphicalInterpretation.py" beforeDir="false" afterPath="$PROJECT_DIR$/LL_Drives/graphicalInterpretation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LL_Drives/kinetic.log" beforeDir="false" afterPath="$PROJECT_DIR$/LL_Drives/kinetic.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_dolfinParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_dolfinParser.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1304962374">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="583" />
+          <entry key="csv" value="39" />
+          <entry key="gitignore" value="53" />
+          <entry key="md" value="630" />
+          <entry key="py" value="6662" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bat" value="583" />
+          <entry key="Markdown" value="630" />
+          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="Python" value="6662" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="11" />
+          <entry key="cmd" value="1" />
+          <entry key="csv" value="8" />
+          <entry key="gitignore" value="4" />
+          <entry key="html" value="1" />
+          <entry key="log" value="26" />
+          <entry key="md" value="3" />
+          <entry key="py" value="40" />
+          <entry key="ui" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bat" value="11" />
+          <entry key="CSV" value="3" />
+          <entry key="Cmd" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="Log" value="25" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="40" />
+          <entry key="Qt UI file" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DolfinReading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153">
+              <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LL_Drives/dolfinParser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="99" column="97" selection-start-line="99" selection-start-column="97" selection-end-line="99" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LL_Drives/graphicalInterpretation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_dolfinParser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="25" column="87" lean-forward="true" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>save_name</find>
+      <find>save_name'</find>
+      <find>a_list</find>
+      <find>values</find>
+      <find>colors</find>
+      <find>file_name</find>
+      <find>keys</find>
+      <find>normalization_factor</find>
+      <find>blank_sub</find>
+      <find>blank_subtracted</find>
+      <find>KR</find>
+      <find>ui_list</find>
+      <find>base_dir</find>
+      <find>return_key_labels</find>
+      <find>labels_w_spaces</find>
+      <find>AbsFilQte</find>
+      <find>clicked_run</find>
+      <find>write_excel_file</find>
+      <find>name_data</find>
+      <find>output_name</find>
+      <find>print</find>
+      <find>fname</find>
+      <find>slope per min</find>
+      <find>kinetic.log</find>
+      <find>save_loc</find>
+      <find>logging</find>
+      <find>rename_flag</find>
+      <find>name_data_file</find>
+      <find>LL_DRIVES</find>
+      <find>i_time</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>exp_time_sec</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/recent_exp.csv" />
+        <option value="$PROJECT_DIR$/test.bat" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/defaults.csv" />
+        <option value="$PROJECT_DIR$/dolfinParser.py" />
+        <option value="$PROJECT_DIR$/graphicalInterpretation.py" />
+        <option value="$PROJECT_DIR$/KineticAssayTools.py" />
+        <option value="$PROJECT_DIR$/cli_test.bat" />
+        <option value="$PROJECT_DIR$/test/dolfin_handler_cli.py" />
+        <option value="$PROJECT_DIR$/LL_Drives/__init__.py" />
+        <option value="$PROJECT_DIR$/test/test_dolfinParser.py" />
+        <option value="$PROJECT_DIR$/dolfin_handler_cli.py" />
+        <option value="$PROJECT_DIR$/LL_Drives/dolfin_handler_cli.py" />
+        <option value="$PROJECT_DIR$/run.bat" />
+        <option value="$PROJECT_DIR$/DolfinReading.py" />
+        <option value="$PROJECT_DIR$/LL_Drives/dolfinParser.py" />
+        <option value="$PROJECT_DIR$/LL_Drives/graphicalInterpretation.py" />
+        <option value="$PROJECT_DIR$/test_dolfinParser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="183" />
+    <option name="y" value="30" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dolfininterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolfininterpreter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolfininterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolfininterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="LL_Drives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolfininterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KineticReading" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dhull\Documents\code_directory\dolfininterpreter\LL_Drives" />
+      <recent name="C:\Users\dhull\Documents\code_directory\dolfininterpreter\test" />
+      <recent name="C:\Users\dhull\Documents\code_directory\dolfininterpreter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhull\Documents\code_directory\dolfininterpreter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dolfininterpreter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1c9fe3-edb1-4c2b-ad64-c42d4b56fd64" name="Default Changelist" comment="" />
+      <created>1558367270586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558367270586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14586645" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.18763557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2537961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.11171366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Terminal" order="3" visible="true" weight="0.39427662" />
+      <window_info anchor="right" id="Python Console" order="4" weight="0.3298887" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14348172" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.18763557" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.11171366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Terminal" order="3" visible="true" weight="0.37957075" />
+      <window_info anchor="right" id="Python Console" order="4" weight="0.3298887" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KineticReading-v0.2.6/KineticAnalysis.py" />
+    <entry file="file://$PROJECT_DIR$/test/16115.results.csv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KineticReading.py" />
+    <entry file="file://$PROJECT_DIR$/test/16115.results.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/call_cli.cmd" />
+    <entry file="file://$PROJECT_DIR$/KineticReading-v0.2.6/test_kinetic_assay_cli.bat" />
+    <entry file="file://$PROJECT_DIR$/KineticReading-v0.2.6/README.md" />
+    <entry file="file://$PROJECT_DIR$/KineticReading-v0.2.6/kinetic_assay_cli.py" />
+    <entry file="file://$PROJECT_DIR$/KineticReading-v0.2.6/test_KineticReading.py" />
+    <entry file="file://$PROJECT_DIR$/KineticReading-v0.2.6/KineticAssayTools.py" />
+    <entry file="file://$PROJECT_DIR$/test.bat" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="85" column="65" lean-forward="true" selection-start-line="85" selection-start-column="65" selection-end-line="85" selection-end-column="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-05-30-07_58_59_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-07_58_21_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-07_55_13_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-07_59_10_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_03_18_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_02_42_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_05_21_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_10_20_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_11_21_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_12_20_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_16_27_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_33_41_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_32_44_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_35_04_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_34_46_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_32_26_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/2019-05-30-08_44_02_kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/kinetic.log" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/LL_Drives/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/cli_test.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="151" selection-start-line="1" selection-start-column="151" selection-end-line="1" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/dolfin_handler_cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="65" lean-forward="true" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/KineticAssayTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="170" column="67" selection-start-line="170" selection-start-column="54" selection-end-line="170" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/DolfinInterpreter.ui">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/defaults.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="92" selection-start-column="68" selection-end-column="92" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/Lib/site-packages/PyQt5/uic/Compiler/compiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/recent_exp.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DolfinReading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/dolfinParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="99" column="97" selection-start-line="99" selection-start-column="97" selection-end-line="99" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LL_Drives/graphicalInterpretation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dolfinParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" column="87" lean-forward="true" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
